@@ -1,0 +1,3 @@
+#+TITLE: Readme
+#+AUTHOR: David Budzynski
+* Introduction to statistical modeling using [[https://www.tidymodels.org/][Tidymodels]]
